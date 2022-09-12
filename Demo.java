@@ -1,7 +1,7 @@
 public class Demo {
-    public void doProcess() {
+    public void m1() {
 
         // logic goes here
-        
+
     }
 }
